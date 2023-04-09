@@ -13,7 +13,7 @@ Design Patterns are divided into three categories:
 |-|-|
 | Singleton | The singleton pattern restricts the initialization of a class to ensure that only one instance of the class can be created |
 | Factory Method| The factory method pattern takes out the responsibility of instantiating a object from the class to a factory class|
-| Abstract Factory | Allows us to create a Factory for factory classes|
+| Abstract Factory | Allows us to create a factory for factory classes|
 | Builder | Creating an object step by step and a method to finally get the object instance|
 
  ## Structural Design Patterns
