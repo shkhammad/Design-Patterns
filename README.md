@@ -12,7 +12,7 @@ Design Patterns are divided into three categories:
 | Name | Description  |
 |-|-|
 | Singleton | The singleton pattern restricts the initialization of a class to ensure that only one instance of the class can be created |
-| Factory Method| The factory method pattern takes out the responsibility of instantiating a object from the class to a Factory class|
+| Factory Method| The factory method pattern takes out the responsibility of instantiating a object from the class to a factory class|
 | Abstract Factory | Allows us to create a Factory for factory classes|
 | Builder | Creating an object step by step and a method to finally get the object instance|
 
@@ -30,11 +30,11 @@ Design Patterns are divided into three categories:
  
 | Name | Description |
 |-|-|
-| Template Method | Used to create a template method stub and defer (pass)  some of the steps of implementation to the subclasses |
+| Template Method | Used to create a template method stub and defer (pass) some of the steps of implementation to the subclasses |
 | Mediator | Used to provide a centralized communication medium between different objects in a system |
 | Observer | Useful when you are interested in the state of an object and want to get notified whenever there is any change |
 | Strategy | Strategy pattern is used when we have multiple algorithm for a specific task and client decides the actual implementation to be used at runtime |
-| Command | Command Pattern is used to implement lose coupling in a request-response model |
-| State | State design pattern is used when an Object change it’s behavior based on it’s internal state |
+| Command | Command Pattern is used to implement loose coupling in a request-response model |
+| State | State design pattern is used when an object changes it’s behavior based on it’s internal state |
 | Iterator | Used to provide a standard way to traverse through a group of objects |
 	
